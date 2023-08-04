@@ -3,7 +3,7 @@
 ## Project Overview
 
 Operationalize a Python flask app—in a provided file, `app.py`—that serves out predictions (inference) about housing prices through API calls. 
-Main aim of the project is to containerize the python flask-app and deploy the container in Kubernetes cluster. This project could be extended to any pre-trained machine learning model, such as those for image recognition and data labeling.
+Aim of the project is to containerize the python flask-app and deploy the container in Kubernetes cluster. This project could be extended to any pre-trained machine learning model, such as those for image recognition and data labeling.
 
 ### Project Tasks
 
@@ -30,8 +30,8 @@ source <your_venv>/bin/activate
 ### Running `app.py`
 
 1. Standalone:  `python app.py`
-2. Run in Docker:  `./run_docker.sh`
-3. Run in Kubernetes:  `./run_kubernetes.sh`
+2. Run in Docker container:  `./run_docker.sh`
+3. Run in Kubernetes cluster:  `./run_kubernetes.sh`
 
 ### Kubernetes Steps
 
