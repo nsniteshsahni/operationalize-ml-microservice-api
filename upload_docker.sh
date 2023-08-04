@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath="sourabh385/ml-api"
+dockerpath="nsniteshsahni/ml-api"
 
 # Step 2:  
 # Authenticate & tag

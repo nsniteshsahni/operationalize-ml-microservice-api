@@ -5,7 +5,7 @@
 
 # Step 1:
 # This is your Docker ID/path
-dockerpath=sourabh385/ml-api
+dockerpath=nsniteshsahni/ml-api
 
 # Step 2
 # Run the Docker Hub container with kubernetes
