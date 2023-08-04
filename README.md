@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/sourabhgupta385/operationalize-ml-microservice-api.svg?style=svg)](https://circleci.com/gh/sourabhgupta385/operationalize-ml-microservice-api)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/nsniteshsahni/operationalize-ml-microservice-api/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/nsniteshsahni/operationalize-ml-microservice-api/tree/main)
 
 ## Project Overview
 
